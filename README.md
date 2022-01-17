@@ -46,8 +46,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 
-# url-shortener
- Encurtador de URL usando Node e Bootstrap
+# Expenser Tracker
+ Gerenciador Financeiro
 
 
 ## Demonstration
@@ -55,13 +55,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 <img src="./public/images/img2.png" alt="exemplo"> 
 
 ## Techs 
+* [ ] React
+* [ ] TypeScript
 * [ ] NodeJs
-* [ ] Bootstrap
-* [ ] Ejs
-* [ ] Css
-
-## initialize
-npm start
 
 
 ## Author
