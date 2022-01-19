@@ -3,7 +3,8 @@ import styled from 'styled-components';
 export const Container = styled.div``;
 
 export const Header = styled.div`
-    background-color: #FFD700;
+    // background-color: #FFD700;
+    background-color: #0e9094;
     height: 150px;
     text-align: center;
 `;
