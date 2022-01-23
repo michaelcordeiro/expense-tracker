@@ -27,7 +27,7 @@ const App = () => {
 
     {/* Área de onserção */}
 
-    <TableArea></TableArea>
+    <TableArea list={filterList} />
 
       </C.Body>
     </C.Container>
