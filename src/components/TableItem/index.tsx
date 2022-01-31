@@ -16,3 +16,4 @@ export const TableItem = ({ item }: Props) => {
         </C.TableLine> 
     );
 }
+
