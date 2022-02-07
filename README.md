@@ -52,14 +52,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Demonstration
 <img src="./public/images/img1.png" alt="exemplo"> 
-<img src="./public/images/img2.png" alt="exemplo"> 
 
 ## Techs 
 * [ ] React
 * [ ] TypeScript
-* [ ] NodeJs
+* [ ] Styled-components
 
-
-## Author
-
-*Michael Cordeiro*
