@@ -3,7 +3,7 @@
 
 
 ## Demonstration
-<img src="./public/demo.gif" alt="exemplo"> 
+<img src="./public/demo1.gif" alt="exemplo"> 
 
 ## Techs 
 * [ ] React
